@@ -41,9 +41,10 @@ button {
   cursor: pointer; }
 
 h1 {
+font-family: "Playfair Display", serif;
   font-size: 2em;
   font-weight: 600;
-  text-transform: uppercase; }
+  text-transform: none; }
 
 h2 {
   font-size: 1.75em;
